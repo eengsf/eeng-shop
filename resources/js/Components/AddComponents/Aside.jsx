@@ -1,5 +1,3 @@
-"use client";
-
 import { CiSearch } from "react-icons/ci";
 import { IoIosArrowDown } from "react-icons/io";
 import { useState } from "react";
